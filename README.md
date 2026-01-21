@@ -1,66 +1,132 @@
-<div align="center">
-
-# 👋 Hi, I'm **Hajith Mohamed**
-### 💻 Full Stack Developer | 🌍 Sri Lanka
-
-<img src="https://komarev.com/ghpvc/?username=hajithmohamed&label=Profile%20Views&color=blueviolet&style=flat" />
-
-</div>
-
----
-
-## ✨ About Me
-
-- 🎓 BICT (Hons) Undergraduate – **University of Ruhuna**
-- 💻 Passionate about **Full Stack Web Development**
-- 🚀 Working with **MERN Stack & Modern Web Technologies**
-- 🧠 Interested in **Scalable Systems & Clean Architecture**
-- 📫 Reach me at: **hanoufaatif@gmail.com**
-
----
-
-## 🔗 Connect With Me
+# 🌌 Hajith Mohamed
 
 <p align="center">
-  <a href="https://linkedin.com/in/mohamed-hajith">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:hanoufaatif@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Engineer;Building+Scalable+Web+Apps;Future+Data+Scientist" />
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hajithmohamed&label=Profile%20Views&color=7c3aed&style=flat" />
+</p>
+
+---
+
+## 🧭 Developer Dashboard
+
+```yaml
+Name: Hajith Mohamed
+Location: Sri Lanka 🇱🇰
+Education: BICT (Hons) – University of Ruhuna
+Current Focus: Full Stack Web Development (MERN)
+Learning Now: System Design, Docker, Clean Architecture
+Career Goal: Software Engineer / Data Scientist
+```
+
+---
+
+## 🧠 About Me
+
+I’m a **passionate Full Stack Developer** who enjoys building **real-world, scalable applications**.
+I focus on **clean code**, **secure systems**, and **practical solutions** that actually solve problems.
+
+* 💻 MERN Stack Developer
+* 🏗️ Strong in Authentication & Role-Based Systems
+* 🔐 Security-first mindset (JWT, OTP, Hashing)
+* 🚀 Always learning & improving
+
+📫 **Email:** `hanoufaatif@gmail.com`
+
+---
+
+## ⚡ Skill Power Levels
+
+```text
+Frontend        █████████░ 90%
+Backend         ████████░░ 80%
+Databases       ███████░░░ 70%
+System Design   █████░░░░░ 50%
+DevOps          ████░░░░░░ 40%
+```
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 🌐 Frontend
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+
+![HTML](https://img.shields.io/badge/HTML5-black?style=for-the-badge\&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-black?style=for-the-badge\&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge\&logo=javascript)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge\&logo=react)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge\&logo=tailwind-css)
 
 ### ⚙️ Backend
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
 
-### 🗄️ Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![NodeJS](https://img.shields.io/badge/Node.js-black?style=for-the-badge\&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge\&logo=express)
+![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge\&logo=php)
+![Java](https://img.shields.io/badge/Java-black?style=for-the-badge\&logo=java)
 
-### 🧰 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+### 🗄️ Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge\&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge\&logo=mysql)
 
 ---
 
-## 🏆 GitHub Trophies
+## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hajithmohamed&theme=radical&no-frame=true&row=1&column=6"/>
-</p>
+### 👟 **Shoe Bank – E-Commerce System**
+
+* Real business application
+* MERN stack
+* JWT + OTP authentication
+* Admin & user roles
+* Secure order handling
+
+🔗 Repo | 🌐 Live (Coming Soon)
+
+---
+
+### 🔐 **Advanced Authentication System**
+
+* Email verification
+* Password reset with OTP
+* Redux Toolkit
+* Clean architecture
+
+🔗 Repo
+
+---
+
+### 🎓 **University Management System (JavaFX)**
+
+* Multi-role login system
+* Admin, Student, Lecturer, Technical Officer
+* MVC architecture
+* Secure credential handling
+
+🔗 Repo
+
+---
+
+## 🧩 Code Philosophy
+
+```text
+✔ Clean code over clever tricks
+✔ Security is mandatory, not optional
+✔ Simple solutions scale better
+✔ Readability matters
+✔ Build for humans, not just machines
+```
+
+---
+
+## 🤖 AI-Assisted Development
+
+* AI-powered debugging & refactoring
+* Better system design decisions
+* Faster development cycles
+* Clean, optimized code generation
 
 ---
 
@@ -80,6 +146,23 @@
 
 ---
 
-## ✨ Quote I Believe In
+## 🏆 Achievements
 
-> *"Code is not just written to work, but to last."*
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hajithmohamed&theme=radical&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 💼 Open to Opportunities
+
+* ✅ Internships
+* ✅ Junior Full Stack Roles
+* ✅ Remote / On-site
+
+📧 **Email:** [hanoufaatif@gmail.com](mailto:hanoufaatif@gmail.com)
+🔗 **LinkedIn:** [https://linkedin.com/in/mohamed-hajith](https://linkedin.com/in/mohamed-hajith)
+
+---
+
+> *“Don’t just write code that works — write code that lasts.”*
