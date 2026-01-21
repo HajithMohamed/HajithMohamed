@@ -1,5 +1,3 @@
-# 🌌 Hajith Mohamed
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:22d3ee&height=220&section=header&text=Hajith%20Mohamed&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
