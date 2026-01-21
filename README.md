@@ -43,8 +43,6 @@ I am a **results‑driven Full Stack Developer** who builds **real‑world appli
 
 ## ⚡ Live Skill Analyzer (Commit‑Based)
 
-> ⚠️ **Important:** Percentages below are **data‑informed**, derived from your public repositories and updated as your codebase grows.
-
 ```text
 Frontend (HTML/CSS/JS)   ██████████ 100%
 Backend (Node.js / PHP)  ███████░░░ 70%
@@ -52,8 +50,6 @@ Java (OOP / JavaFX)      ███████░░░ 70%
 Databases                ██████░░░░ 60%
 DevOps / Architecture    ███░░░░░░░ 30%
 ```
-
-📌 These values should be reviewed every **2–3 months** based on new repositories and commits.
 
 ---
 
