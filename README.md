@@ -63,20 +63,9 @@ OOP Principles | Java Application
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HajithMohamed&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HajithMohamed&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HajithMohamed&layout=compact&theme=radical&langs_count=8" />
-</p>
-
----
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=HajithMohamed&show_icons=true&theme=radical" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HajithMohamed&layout=compact&theme=radical&langs_count=8" /> </p>
+📈 Contribution Activity
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=HajithMohamed&theme=react-dark&hide_border=true" /> </p>
 
 ## 💼 Open to Opportunities
 
