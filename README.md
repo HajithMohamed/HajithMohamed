@@ -8,6 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-hajith)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hanoufaatif@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=HajithMohamed&label=Profile%20Views&color=6366F1&style=for-the-badge)
 
 </div>
 
@@ -88,15 +89,31 @@ Object-oriented Java project demonstrating clean architecture and design pattern
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HajithMohamed&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HajithMohamed&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&langs_count=8" />
-</div>
+  
+### 📈 Contribution Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HajithMohamed&theme=radical)
 
-<div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=HajithMohamed&theme=radical&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" />
+### 💻 Development Breakdown
+<p>
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HajithMohamed&theme=radical" />
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HajithMohamed&theme=radical" />
+</p>
+
+### 📊 GitHub Activity
+<p>
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HajithMohamed&theme=radical" />
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HajithMohamed&theme=radical" />
+</p>
+
+### 🔥 Contribution Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=HajithMohamed&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=HajithMohamed&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
+
 </div>
 
 ---
@@ -112,6 +129,11 @@ I'm actively seeking **Full Stack Developer** positions and **Software Engineeri
 ---
 
 <div align="center">
+
+### 💭 Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
 
 *"Write code that works. Write code that evolves."*
 
