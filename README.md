@@ -1,83 +1,120 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:22d3ee&height=220&section=header&text=Hajith%20Mohamed&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Engineer;Building+Real-World+Applications" />
-</p>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hajith%20Mohamed&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38)
+
+### Full Stack Developer | MERN Stack Engineer | Sri Lanka 🇱🇰
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Building+Real-World+Applications;MERN+%2B+PHP+%2B+Java;Clean+Code+Enthusiast)](https://git.io/typing-svg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-hajith)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hanoufaatif@gmail.com)
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-```yaml
-Name: Hajith Mohamed
-Location: Sri Lanka 🇱🇰
-Education: BICT (Hons) – University of Ruhuna
-Tech Stack: MERN + PHP + Java
-Focus: Full Stack Web Development
-Email: hanoufaatif@gmail.com
+```javascript
+const developer = {
+    name: "Hajith Mohamed",
+    location: "Sri Lanka 🇱🇰",
+    education: "BICT (Hons) – University of Ruhuna",
+    role: "Full Stack Developer",
+    techStack: ["MERN", "PHP", "Java"],
+    focus: "Building scalable web applications"
+}
 ```
 
-I'm a **Full Stack Developer** passionate about building **scalable, real-world applications** with clean code and modern technologies.
+Currently pursuing **BICT (Hons)** at University of Ruhuna, I specialize in creating production-ready web applications with the MERN stack. Passionate about clean code, modern design, and solving real-world problems through technology.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend**  
-![HTML](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=tailwind-css)
+**Frontend**
 
-**Backend**  
-![NodeJS](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Database**  
-![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
+**Backend**
 
-**Other**  
-![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+**Database**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Other**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 👟 [Shoe Bank – Full Stack E-Commerce](https://github.com/HajithMohamed/Shoe-Bank)
-MERN Stack | JWT + OTP Authentication | Admin & User Roles
+### 👟 [Shoe Bank – E-Commerce Platform](https://github.com/HajithMohamed/Shoe-Bank)
+Full-stack MERN application with JWT + OTP authentication, admin panel, and complete e-commerce functionality.
+
+`MongoDB` `Express` `React` `Node.js` `JWT`
+
+---
 
 ### 🏠 [Real Estate Platform](https://github.com/HajithMohamed/Real-state)
-Modern Frontend | JavaScript-Driven UI
+Modern, responsive real estate website with clean UI and smooth user experience.
 
-### ☕ [NEXTGEN – Mobile Shop](https://github.com/HajithMohamed/NEXTGEN---Sri-Lankan-Mobile-Shop-eCommerce-Website)
-PHP Backend | MySQL Database
+`JavaScript` `HTML5` `CSS3`
 
-### 🎓 [Nano-Zillas – Java Project](https://github.com/HajithMohamed/Nano-_Zillas_Java_Project)
-OOP Principles | Java Application
+---
+
+### 📱 [NEXTGEN – Mobile Shop](https://github.com/HajithMohamed/NEXTGEN---Sri-Lankan-Mobile-Shop-eCommerce-Website)
+E-commerce platform for mobile phones with secure backend and MySQL database.
+
+`PHP` `MySQL` `JavaScript`
+
+---
+
+### 🎓 [Nano-Zillas – Java Application](https://github.com/HajithMohamed/Nano-_Zillas_Java_Project)
+Object-oriented Java project demonstrating clean architecture and design patterns.
+
+`Java` `OOP`
 
 ---
 
 ## 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=HajithMohamed&show_icons=true&theme=radical" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HajithMohamed&layout=compact&theme=radical&langs_count=8" /> </p>
-📈 Contribution Activity
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=HajithMohamed&theme=react-dark&hide_border=true" /> </p>
 
-## 💼 Open to Opportunities
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HajithMohamed&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HajithMohamed&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&langs_count=8" />
+</div>
 
-✅ Full Stack Developer Roles  
-✅ Software Engineering Internships  
-✅ Remote / On-site Positions
-
-📧 **Email:** hanoufaatif@gmail.com  
-🔗 **LinkedIn:** [linkedin.com/in/mohamed-hajith](https://linkedin.com/in/mohamed-hajith)
+<div align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=HajithMohamed&theme=radical&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" />
+</div>
 
 ---
 
-<p align="center">
-  <i>"Write code that works. Write code that evolves."</i>
-</p>
+## 💼 Let's Connect
+
+I'm actively seeking **Full Stack Developer** positions and **Software Engineering Internships**. Open to remote and on-site opportunities.
+
+📧 **Email:** hanoufaatif@gmail.com  
+🔗 **LinkedIn:** [linkedin.com/in/mohamed-hajith](https://linkedin.com/in/mohamed-hajith)  
+📍 **Location:** Sri Lanka
+
+---
+
+<div align="center">
+
+*"Write code that works. Write code that evolves."*
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+
+</div>
