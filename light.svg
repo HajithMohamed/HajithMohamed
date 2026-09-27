@@ -1,0 +1,436 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 610" width="1180" height="610" role="img" aria-label="Mohamed Hajith — Full Stack Developer Profile">
+  <defs>
+    <!-- Background Gradients (Genuine Light Mode) -->
+    <linearGradient id="bgGradLight" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F8FAFC"/>
+      <stop offset="50%" stop-color="#F1F5F9"/>
+      <stop offset="100%" stop-color="#EEF6FF"/>
+    </linearGradient>
+
+    <radialGradient id="blueGlowLight" cx="15%" cy="15%" r="35%">
+      <stop offset="0%" stop-color="#3B82F6" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#3B82F6" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="cyanGlowLight" cx="85%" cy="25%" r="40%">
+      <stop offset="0%" stop-color="#06B6D4" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#06B6D4" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="emeraldGlowLight" cx="50%" cy="85%" r="35%">
+      <stop offset="0%" stop-color="#10B981" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#10B981" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Glass & Card Gradients for Light Theme -->
+    <linearGradient id="panelBorderLight" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#93C5FD" stop-opacity="0.7"/>
+      <stop offset="40%" stop-color="#CBD5E1" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#A5B4FC" stop-opacity="0.7"/>
+    </linearGradient>
+
+    <linearGradient id="accentTitleLight" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0F172A"/>
+      <stop offset="65%" stop-color="#1E293B"/>
+      <stop offset="100%" stop-color="#2563EB"/>
+    </linearGradient>
+
+    <!-- ASCII text gradient for high contrast on light canvas -->
+    <linearGradient id="asciiGradLight" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1E293B"/>
+      <stop offset="40%" stop-color="#0F766E"/>
+      <stop offset="75%" stop-color="#0369A1"/>
+      <stop offset="100%" stop-color="#4338CA"/>
+    </linearGradient>
+
+    <linearGradient id="scanlineGradLight" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0284C7" stop-opacity="0"/>
+      <stop offset="30%" stop-color="#0284C7" stop-opacity="0.3"/>
+      <stop offset="50%" stop-color="#2563EB" stop-opacity="0.6"/>
+      <stop offset="70%" stop-color="#0284C7" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#0284C7" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- Grid Pattern -->
+    <pattern id="dotGridLight" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="0.9" fill="#94A3B8" fill-opacity="0.4"/>
+    </pattern>
+
+    <!-- Drop Shadow Filter for Light Cards -->
+    <filter id="cardShadow" x="-5%" y="-5%" width="110%" height="115%">
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#0F172A" flood-opacity="0.04"/>
+    </filter>
+  </defs>
+
+  <style>
+    .mono { font-family: ui-monospace, SFMono-Regular, "Cascadia Code", "Source Code Pro", Menlo, Monaco, Consolas, monospace; }
+    .sans { font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu, sans-serif; }
+    .ascii-text-light {
+      font-family: ui-monospace, SFMono-Regular, "Cascadia Code", Menlo, Monaco, Consolas, monospace;
+      font-size: 6.8px;
+      font-weight: 700;
+      letter-spacing: 1.2px;
+      fill: url(#asciiGradLight);
+    }
+  </style>
+
+  <!-- Outer Rounded Canvas -->
+  <rect x="0" y="0" width="1180" height="610" rx="22" fill="url(#bgGradLight)"/>
+  <rect x="0" y="0" width="1180" height="610" rx="22" fill="url(#dotGridLight)"/>
+
+  <!-- Radial Glow Orbs -->
+  <rect x="0" y="0" width="1180" height="610" rx="22" fill="url(#blueGlowLight)"/>
+  <rect x="0" y="0" width="1180" height="610" rx="22" fill="url(#cyanGlowLight)"/>
+  <rect x="0" y="0" width="1180" height="610" rx="22" fill="url(#emeraldGlowLight)"/>
+
+  <!-- Outer Border Frame -->
+  <rect x="0.6" y="0.6" width="1178.8" height="608.8" rx="21.4" fill="none" stroke="#E2E8F0" stroke-width="1.2"/>
+
+  <!-- ==================================================================== -->
+  <!-- LEFT PANEL: VISUAL / BIOMETRIC TERMINAL (x: 28 to 446, width: 418)    -->
+  <!-- ==================================================================== -->
+  <g id="left-panel-light" filter="url(#cardShadow)">
+    <!-- Panel Glass Body -->
+    <rect x="28" y="24" width="418" height="562" rx="18" fill="#FFFFFF" fill-opacity="0.88" stroke="url(#panelBorderLight)" stroke-width="1.2"/>
+
+    <!-- Terminal Header Bar -->
+    <rect x="28" y="24" width="418" height="42" rx="18" fill="#F8FAFC" fill-opacity="0.95"/>
+    <rect x="28" y="48" width="418" height="18" fill="#F8FAFC" fill-opacity="0.95"/>
+    <line x1="28" y1="66" x2="446" y2="66" stroke="#E2E8F0" stroke-width="1"/>
+
+    <!-- Window Controls -->
+    <circle cx="50" cy="45" r="5" fill="#EF4444"/>
+    <circle cx="66" cy="45" r="5" fill="#F59E0B"/>
+    <circle cx="82" cy="45" r="5" fill="#10B981"/>
+
+    <!-- Terminal Session Title -->
+    <text x="104" y="49" class="mono" font-size="11.5" fill="#475569" font-weight="600">hajith@system:~</text>
+
+    <!-- Online Status Pill -->
+    <rect x="344" y="36" width="88" height="19" rx="9.5" fill="#DCFCE7" stroke="#10B981" stroke-width="0.8"/>
+    <circle cx="356" cy="45.5" r="3.5" fill="#059669">
+      <animate attributeName="opacity" values="1;0.35;1" dur="2s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="3.5;4.2;3.5" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="366" y="49" class="mono" font-size="9.5" font-weight="700" fill="#047857" letter-spacing="0.5">SYS.ONLINE</text>
+
+    <!-- Sub-header Tag -->
+    <text x="44" y="86" class="mono" font-size="10" font-weight="700" fill="#0284C7" letter-spacing="1.2">// VISUAL.MAP :: BIOMETRIC_MATRIX</text>
+    <text x="430" y="86" class="mono" font-size="9.5" font-weight="600" fill="#64748B" text-anchor="end">v2.4 // 54x42</text>
+
+    <!-- Viewport Inner Card -->
+    <rect x="44" y="98" width="386" height="344" rx="12" fill="#F8FAFC" fill-opacity="0.95" stroke="#CBD5E1" stroke-width="1"/>
+
+    <!-- Viewport Corner Tech Brackets -->
+    <path d="M 44 116 L 44 108 A 10 10 0 0 1 54 98 L 66 98" fill="none" stroke="#0284C7" stroke-width="1.5"/>
+    <path d="M 408 98 L 420 98 A 10 10 0 0 1 430 108 L 430 116" fill="none" stroke="#0284C7" stroke-width="1.5"/>
+    <path d="M 44 424 L 44 432 A 10 10 0 0 0 54 442 L 66 442" fill="none" stroke="#0284C7" stroke-width="1.5"/>
+    <path d="M 408 442 L 420 442 A 10 10 0 0 0 430 432 L 430 424" fill="none" stroke="#0284C7" stroke-width="1.5"/>
+
+    <!-- Viewport Fine Crosshairs -->
+    <line x1="237" y1="102" x2="237" y2="108" stroke="#0284C7" stroke-opacity="0.6" stroke-width="1"/>
+    <line x1="237" y1="432" x2="237" y2="438" stroke="#0284C7" stroke-opacity="0.6" stroke-width="1"/>
+    <line x1="48" y1="270" x2="54" y2="270" stroke="#0284C7" stroke-opacity="0.6" stroke-width="1"/>
+    <line x1="420" y1="270" x2="426" y2="270" stroke="#0284C7" stroke-opacity="0.6" stroke-width="1"/>
+
+    <!-- ASCII Character Portrait Matrix -->
+    <g transform="translate(0, 0)">
+      <text x="237" y="117" text-anchor="middle" class="ascii-text-light" xml:space="preserve">
+        <tspan x="237" dy="0px">                 *+****                               </tspan>
+        <tspan x="237" dy="7.6px">            ##%%%%#*+%+:%                             </tspan>
+        <tspan x="237" dy="7.6px">          #%%%%%%%%##%%%%##                           </tspan>
+        <tspan x="237" dy="7.6px">          #%%%%##*++++*%#%%                           </tspan>
+        <tspan x="237" dy="7.6px">          %%#+.........:+###                          </tspan>
+        <tspan x="237" dy="7.6px">          #+:....%.%%%%::*##                          </tspan>
+        <tspan x="237" dy="7.6px">         ##%:........:++++*#                          </tspan>
+        <tspan x="237" dy="7.6px">         ##%%+++%:%%%%%:::%#                          </tspan>
+        <tspan x="237" dy="7.6px">         #*%+%*%%+.%%%%+%:%+#                         </tspan>
+        <tspan x="237" dy="7.6px">         *+:%%:%%%.%%%....%:%#                        </tspan>
+        <tspan x="237" dy="7.6px">         :%%....%+%+%:%...::+#                        </tspan>
+        <tspan x="237" dy="7.6px">         ++:%..%:+%%++:...:%+                         </tspan>
+        <tspan x="237" dy="7.6px">         #%+:%.%+%%%%%%+:%%%                          </tspan>
+        <tspan x="237" dy="7.6px">          +*%%%+%%%*+%%*%%##                          </tspan>
+        <tspan x="237" dy="7.6px">          ++###%#*%%%*#%###                           </tspan>
+        <tspan x="237" dy="7.6px">          #++*##%%########                            </tspan>
+        <tspan x="237" dy="7.6px">            %++%%#####**+                             </tspan>
+        <tspan x="237" dy="7.6px">            #%%%%%%+%%%##                             </tspan>
+        <tspan x="237" dy="7.6px">            %+%%.%%.:::     #                         </tspan>
+        <tspan x="237" dy="7.6px">          #:++:::...:::####:...:+#                    </tspan>
+        <tspan x="237" dy="7.6px">        +....++%::::::%%:+:.........::#               </tspan>
+        <tspan x="237" dy="7.6px">       :......++:%::%:%%%:..:::::.......:+            </tspan>
+        <tspan x="237" dy="7.6px">      :..:::%%:::::%%%::....::::...........+          </tspan>
+        <tspan x="237" dy="7.6px">     ::::+:::::%%::%%%%...::::::............+         </tspan>
+        <tspan x="237" dy="7.6px">    #.::::::...::::.%%.::::::::........:.....:        </tspan>
+        <tspan x="237" dy="7.6px">    :..::::::::::::..%%:::::::.........:......:#      </tspan>
+        <tspan x="237" dy="7.6px">   #.....::::::::::....:::::............:..:...:      </tspan>
+        <tspan x="237" dy="7.6px">   .......::::::::::...:::..............::%%%...:     </tspan>
+        <tspan x="237" dy="7.6px">  #...::.......:::::...%..:...........:::::::%...:    </tspan>
+        <tspan x="237" dy="7.6px">  :..:............::...:.::....:.....:::%%::%.:...+   </tspan>
+        <tspan x="237" dy="7.6px"> #.::............:::...:.::%.........:::+:%:.......#  </tspan>
+        <tspan x="237" dy="7.6px"> #::.::.........::::%%.:.::............%+::::......:  </tspan>
+        <tspan x="237" dy="7.6px"> %::::::....::..::::...::::..:....:::.%+%:::........# </tspan>
+        <tspan x="237" dy="7.6px"> ::+:::::::::..::::....::::......::::..:%::....:::.:+ </tspan>
+        <tspan x="237" dy="7.6px">#.:::..::::...:::::....::::......::...::++:::::::.::: </tspan>
+        <tspan x="237" dy="7.6px">+.:+:.:......::::::....::::.:.....::::::+#+::::..:::. </tspan>
+        <tspan x="237" dy="7.6px">:::%:..::::::::::.:...:::::........:.:::+##::::::::..#</tspan>
+        <tspan x="237" dy="7.6px">::%%.......::::...:.%.:::::%..........::+++::%:......#</tspan>
+        <tspan x="237" dy="7.6px">::+%:::..:::::...::...:::::::::........:+#+::::..:::%#</tspan>
+        <tspan x="237" dy="7.6px">::+#..::::::...::::%::::::::::::::...:%++++++%:::::::#</tspan>
+        <tspan x="237" dy="7.6px">::%+..::::....::.........::::......:::+++++::%%:...::#</tspan>
+        <tspan x="237" dy="7.6px">%+%+..%......::...:......::.....::::.::+++:::%.....:# </tspan>
+      </text>
+    </g>
+
+    <!-- Animated Horizontal Scanline -->
+    <line x1="46" y1="102" x2="428" y2="102" stroke="url(#scanlineGradLight)" stroke-width="2.5">
+      <animate attributeName="y1" values="102;438;102" dur="6.5s" repeatCount="indefinite"/>
+      <animate attributeName="y2" values="102;438;102" dur="6.5s" repeatCount="indefinite"/>
+    </line>
+
+    <!-- Left Panel Lower Section -->
+    <line x1="44" y1="454" x2="430" y2="454" stroke="#E2E8F0" stroke-width="1"/>
+
+    <!-- Terminal Command Line -->
+    <text x="46" y="474" class="mono" font-size="11.5" font-weight="600" fill="#0284C7">~/hajith <tspan fill="#0F172A">$ build --ship --production</tspan></text>
+
+    <!-- Supporting Tagline -->
+    <text x="46" y="495" class="sans" font-size="11" fill="#475569" font-style="italic">"Engineering software that solves operational problems."</text>
+
+    <!-- Engineering Principles Pills -->
+    <g transform="translate(46, 508)">
+      <rect x="0" y="0" width="186" height="22" rx="5" fill="#F1F5F9" stroke="#CBD5E1" stroke-width="0.8"/>
+      <text x="93" y="14" class="mono" font-size="9" fill="#0D9488" text-anchor="middle" font-weight="700">operational &gt; decorative</text>
+
+      <rect x="194" y="0" width="188" height="22" rx="5" fill="#F1F5F9" stroke="#CBD5E1" stroke-width="0.8"/>
+      <text x="288" y="14" class="mono" font-size="9" fill="#6366F1" text-anchor="middle" font-weight="700">maintainable &gt; clever</text>
+    </g>
+
+    <!-- Architecture Badges Row -->
+    <g transform="translate(46, 538)">
+      <rect x="0" y="0" width="88" height="22" rx="5" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="0.8"/>
+      <text x="44" y="14.5" class="mono" font-size="9.5" fill="#0F172A" text-anchor="middle" font-weight="600">MERN Stack</text>
+
+      <rect x="96" y="0" width="88" height="22" rx="5" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="0.8"/>
+      <text x="140" y="14.5" class="mono" font-size="9.5" fill="#0F172A" text-anchor="middle" font-weight="600">PHP · MySQL</text>
+
+      <rect x="192" y="0" width="88" height="22" rx="5" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="0.8"/>
+      <text x="236" y="14.5" class="mono" font-size="9.5" fill="#0F172A" text-anchor="middle" font-weight="600">Java OOP</text>
+
+      <rect x="288" y="0" width="94" height="22" rx="5" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="0.8"/>
+      <text x="335" y="14.5" class="mono" font-size="9.5" fill="#0284C7" text-anchor="middle" font-weight="700">REST APIs</text>
+    </g>
+  </g>
+
+  <!-- ==================================================================== -->
+  <!-- RIGHT PANEL: SYSTEM.INFO DASHBOARD (x: 462 to 1152, width: 690)      -->
+  <!-- ==================================================================== -->
+  <g id="right-panel-light" filter="url(#cardShadow)">
+    <!-- Panel Glass Body -->
+    <rect x="462" y="24" width="690" height="562" rx="18" fill="#FFFFFF" fill-opacity="0.88" stroke="url(#panelBorderLight)" stroke-width="1.2"/>
+
+    <!-- Terminal Header Bar -->
+    <rect x="462" y="24" width="690" height="42" rx="18" fill="#F8FAFC" fill-opacity="0.95"/>
+    <rect x="462" y="48" width="690" height="18" fill="#F8FAFC" fill-opacity="0.95"/>
+    <line x1="462" y1="66" x2="1152" y2="66" stroke="#E2E8F0" stroke-width="1"/>
+
+    <!-- Window Controls -->
+    <circle cx="484" cy="45" r="5" fill="#EF4444"/>
+    <circle cx="500" cy="45" r="5" fill="#F59E0B"/>
+    <circle cx="516" cy="45" r="5" fill="#10B981"/>
+
+    <!-- Terminal Prompt -->
+    <text x="538" y="49" class="mono" font-size="11.5" fill="#475569" font-weight="600">hajith@portfolio:~$ <tspan fill="#0284C7">./system_info.sh --full</tspan></text>
+
+    <!-- Prod Status Pill -->
+    <rect x="1018" y="36" width="116" height="19" rx="9.5" fill="#F1F5F9" stroke="#0284C7" stroke-opacity="0.5" stroke-width="0.8"/>
+    <circle cx="1029" cy="45.5" r="3.5" fill="#0284C7"/>
+    <text x="1038" y="49" class="mono" font-size="9" font-weight="700" fill="#0F172A" letter-spacing="0.5">SYSTEM.INFO</text>
+
+    <!-- SECTION 1: IDENTITY & HERO SPECS -->
+    <g transform="translate(484, 82)">
+      <!-- Label -->
+      <text x="0" y="8" class="mono" font-size="9.5" font-weight="700" fill="#0284C7" letter-spacing="1.5">&gt; DEVELOPER IDENTITY</text>
+
+      <!-- Name -->
+      <text x="0" y="38" class="sans" font-size="28" font-weight="800" fill="url(#accentTitleLight)" letter-spacing="0.5">HAJITH MOHAMED</text>
+
+      <!-- Role & Animated Cursor -->
+      <text x="0" y="60" class="mono" font-size="14.5" font-weight="700" fill="#0D9488">Full Stack Developer · Software Engineer</text>
+      <rect x="348" y="48" width="7.5" height="15" fill="#0D9488">
+        <animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite"/>
+      </rect>
+
+      <!-- Location & Opportunity Status -->
+      <g transform="translate(0, 74)">
+        <text x="0" y="9" class="mono" font-size="10.5" fill="#475569">📍 Batticaloa, Sri Lanka</text>
+        <circle cx="174" cy="6" r="3.5" fill="#059669">
+          <animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite"/>
+        </circle>
+        <text x="184" y="9" class="mono" font-size="10.5" font-weight="700" fill="#047857">Open to Internships &amp; SDE Roles</text>
+      </g>
+    </g>
+
+    <line x1="484" y1="174" x2="1130" y2="174" stroke="#E2E8F0" stroke-width="1"/>
+
+    <!-- SECTION 2: CORE FOCUS & PRINCIPLES -->
+    <g transform="translate(484, 184)">
+      <text x="0" y="8" class="mono" font-size="9.5" font-weight="700" fill="#6366F1" letter-spacing="1.2">// 01. ENGINEERING FOCUS &amp; SPECIALIZATION</text>
+
+      <g transform="translate(0, 16)">
+        <rect x="0" y="0" width="138" height="24" rx="5" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="0.8"/>
+        <text x="69" y="15.5" class="mono" font-size="9.5" fill="#0F172A" text-anchor="middle" font-weight="600">Commerce Systems</text>
+
+        <rect x="146" y="0" width="168" height="24" rx="5" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="0.8"/>
+        <text x="230" y="15.5" class="mono" font-size="9.5" fill="#0F172A" text-anchor="middle" font-weight="600">Auth &amp; Security (JWT/OTP)</text>
+
+        <rect x="322" y="0" width="158" height="24" rx="5" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="0.8"/>
+        <text x="401" y="15.5" class="mono" font-size="9.5" fill="#0F172A" text-anchor="middle" font-weight="600">Admin Inventory Tooling</text>
+
+        <rect x="488" y="0" width="158" height="24" rx="5" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="0.8"/>
+        <text x="567" y="15.5" class="mono" font-size="9.5" fill="#0F172A" text-anchor="middle" font-weight="600">Scalable REST APIs</text>
+      </g>
+    </g>
+
+    <!-- SECTION 3: TECH STACK MATRIX -->
+    <g transform="translate(484, 240)">
+      <text x="0" y="8" class="mono" font-size="9.5" font-weight="700" fill="#0284C7" letter-spacing="1.2">// 02. PRODUCTION TECH STACK</text>
+
+      <!-- Row 1: Frontend -->
+      <g transform="translate(0, 16)">
+        <text x="0" y="15" class="mono" font-size="9.5" font-weight="700" fill="#64748B">FRONTEND</text>
+        <g transform="translate(75, 0)">
+          <rect x="0" y="0" width="62" height="22" rx="4" fill="#F8FAFC" stroke="#CBD5E1"/>
+          <text x="31" y="14" class="mono" font-size="9.5" fill="#0284C7" text-anchor="middle" font-weight="700">React</text>
+
+          <rect x="68" y="0" width="90" height="22" rx="4" fill="#F8FAFC" stroke="#CBD5E1"/>
+          <text x="113" y="14" class="mono" font-size="9.5" fill="#0369A1" text-anchor="middle" font-weight="700">TypeScript</text>
+
+          <rect x="164" y="0" width="88" height="22" rx="4" fill="#F8FAFC" stroke="#CBD5E1"/>
+          <text x="208" y="14" class="mono" font-size="9.5" fill="#0F172A" text-anchor="middle" font-weight="600">JavaScript</text>
+
+          <rect x="258" y="0" width="94" height="22" rx="4" fill="#F8FAFC" stroke="#CBD5E1"/>
+          <text x="305" y="14" class="mono" font-size="9.5" fill="#0D9488" text-anchor="middle" font-weight="700">TailwindCSS</text>
+
+          <rect x="358" y="0" width="84" height="22" rx="4" fill="#F8FAFC" stroke="#CBD5E1"/>
+          <text x="400" y="14" class="mono" font-size="9.5" fill="#0F172A" text-anchor="middle" font-weight="600">HTML5/CSS3</text>
+
+          <rect x="448" y="0" width="54" height="22" rx="4" fill="#F8FAFC" stroke="#CBD5E1"/>
+          <text x="475" y="14" class="mono" font-size="9.5" fill="#6366F1" text-anchor="middle" font-weight="700">Vite</text>
+        </g>
+      </g>
+
+      <!-- Row 2: Backend -->
+      <g transform="translate(0, 44)">
+        <text x="0" y="15" class="mono" font-size="9.5" font-weight="700" fill="#64748B">BACKEND</text>
+        <g transform="translate(75, 0)">
+          <rect x="0" y="0" width="70" height="22" rx="4" fill="#F8FAFC" stroke="#CBD5E1"/>
+          <text x="35" y="14" class="mono" font-size="9.5" fill="#047857" text-anchor="middle" font-weight="700">Node.js</text>
+
+          <rect x="76" y="0" width="68" height="22" rx="4" fill="#F8FAFC" stroke="#CBD5E1"/>
+          <text x="110" y="14" class="mono" font-size="9.5" fill="#0F172A" text-anchor="middle" font-weight="600">Express</text>
+
+          <rect x="150" y="0" width="56" height="22" rx="4" fill="#F8FAFC" stroke="#CBD5E1"/>
+          <text x="178" y="14" class="mono" font-size="9.5" fill="#4F46E5" text-anchor="middle" font-weight="700">PHP</text>
+
+          <rect x="212" y="0" width="58" height="22" rx="4" fill="#F8FAFC" stroke="#CBD5E1"/>
+          <text x="241" y="14" class="mono" font-size="9.5" fill="#0F172A" text-anchor="middle" font-weight="600">Java</text>
+
+          <rect x="276" y="0" width="86" height="22" rx="4" fill="#F8FAFC" stroke="#CBD5E1"/>
+          <text x="319" y="14" class="mono" font-size="9.5" fill="#0284C7" text-anchor="middle" font-weight="700">REST APIs</text>
+
+          <rect x="368" y="0" width="88" height="22" rx="4" fill="#F8FAFC" stroke="#CBD5E1"/>
+          <text x="412" y="14" class="mono" font-size="9.5" fill="#047857" text-anchor="middle" font-weight="700">JWT · OTP</text>
+        </g>
+      </g>
+
+      <!-- Row 3: Data & Tooling -->
+      <g transform="translate(0, 72)">
+        <text x="0" y="15" class="mono" font-size="9.5" font-weight="700" fill="#64748B">DATA/OPS</text>
+        <g transform="translate(75, 0)">
+          <rect x="0" y="0" width="76" height="22" rx="4" fill="#F8FAFC" stroke="#CBD5E1"/>
+          <text x="38" y="14" class="mono" font-size="9.5" fill="#047857" text-anchor="middle" font-weight="700">MongoDB</text>
+
+          <rect x="82" y="0" width="64" height="22" rx="4" fill="#F8FAFC" stroke="#CBD5E1"/>
+          <text x="114" y="14" class="mono" font-size="9.5" fill="#0284C7" text-anchor="middle" font-weight="700">MySQL</text>
+
+          <rect x="152" y="0" width="86" height="22" rx="4" fill="#F8FAFC" stroke="#CBD5E1"/>
+          <text x="195" y="14" class="mono" font-size="9.5" fill="#0F172A" text-anchor="middle" font-weight="600">PostgreSQL</text>
+
+          <rect x="244" y="0" width="46" height="22" rx="4" fill="#F8FAFC" stroke="#CBD5E1"/>
+          <text x="267" y="14" class="mono" font-size="9.5" fill="#0F172A" text-anchor="middle" font-weight="600">Git</text>
+
+          <rect x="296" y="0" width="74" height="22" rx="4" fill="#F8FAFC" stroke="#CBD5E1"/>
+          <text x="333" y="14" class="mono" font-size="9.5" fill="#D97706" text-anchor="middle" font-weight="700">Postman</text>
+
+          <rect x="376" y="0" width="66" height="22" rx="4" fill="#F8FAFC" stroke="#CBD5E1"/>
+          <text x="409" y="14" class="mono" font-size="9.5" fill="#0F172A" text-anchor="middle" font-weight="600">Vercel</text>
+        </g>
+      </g>
+    </g>
+
+    <line x1="484" y1="350" x2="1130" y2="350" stroke="#E2E8F0" stroke-width="1"/>
+
+    <!-- SECTION 4: SELECTED FACTUAL WORK (2x2 Grid) -->
+    <g transform="translate(484, 360)">
+      <text x="0" y="8" class="mono" font-size="9.5" font-weight="700" fill="#047857" letter-spacing="1.2">// 03. FEATURED WORK (PRODUCTION &amp; ARCHITECTURE)</text>
+
+      <!-- Project 1: Shoe Bank -->
+      <g transform="translate(0, 18)">
+        <rect x="0" y="0" width="316" height="52" rx="8" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="1"/>
+        <text x="12" y="18" class="mono" font-size="11.5" font-weight="700" fill="#0F172A">Shoe Bank</text>
+        <text x="96" y="17" class="mono" font-size="9" fill="#0284C7" font-weight="700">MERN · JWT · OTP</text>
+        <text x="12" y="36" class="sans" font-size="9.5" fill="#475569">Production sneaker e-commerce with secure auth &amp; admin inventory</text>
+      </g>
+
+      <!-- Project 2: NextGen Mobiles -->
+      <g transform="translate(328, 18)">
+        <rect x="0" y="0" width="318" height="52" rx="8" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="1"/>
+        <text x="12" y="18" class="mono" font-size="11.5" font-weight="700" fill="#0F172A">NextGen Mobiles</text>
+        <text x="136" y="17" class="mono" font-size="9" fill="#0284C7" font-weight="700">PHP · MySQL</text>
+        <text x="12" y="36" class="sans" font-size="9.5" fill="#475569">Retail platform replacing manual stock &amp; sales spreadsheets</text>
+      </g>
+
+      <!-- Project 3: Real Estate Listings -->
+      <g transform="translate(0, 76)">
+        <rect x="0" y="0" width="316" height="52" rx="8" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="1"/>
+        <text x="12" y="18" class="mono" font-size="11.5" font-weight="700" fill="#0F172A">Real Estate Listings</text>
+        <text x="160" y="17" class="mono" font-size="9" fill="#0284C7" font-weight="700">MERN · CRUD</text>
+        <text x="12" y="36" class="sans" font-size="9.5" fill="#475569">Marketplace platform with filtered search &amp; agent management</text>
+      </g>
+
+      <!-- Project 4: Nano Zillas -->
+      <g transform="translate(328, 76)">
+        <rect x="0" y="0" width="318" height="52" rx="8" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="1"/>
+        <text x="12" y="18" class="mono" font-size="11.5" font-weight="700" fill="#0F172A">Nano Zillas — OOP</text>
+        <text x="144" y="17" class="mono" font-size="9" fill="#0284C7" font-weight="700">Java · UML</text>
+        <text x="12" y="36" class="sans" font-size="9.5" fill="#475569">Reference project showcasing clean OOP architecture &amp; class design</text>
+      </g>
+    </g>
+
+    <!-- SECTION 5: VERIFIED LINKS FOOTER -->
+    <g transform="translate(484, 502)">
+      <line x1="0" y1="0" x2="646" y2="0" stroke="#E2E8F0" stroke-width="1"/>
+
+      <!-- Portfolio Link -->
+      <g transform="translate(0, 10)">
+        <rect x="0" y="0" width="190" height="30" rx="6" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="0.8"/>
+        <text x="12" y="19" class="mono" font-size="10" font-weight="700" fill="#0D9488">🌐 hzlabs.studio</text>
+      </g>
+
+      <!-- GitHub Link -->
+      <g transform="translate(202, 10)">
+        <rect x="0" y="0" width="210" height="30" rx="6" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="0.8"/>
+        <text x="12" y="19" class="mono" font-size="10" font-weight="700" fill="#0F172A">🐙 github/HajithMohamed</text>
+      </g>
+
+      <!-- LinkedIn Link -->
+      <g transform="translate(424, 10)">
+        <rect x="0" y="0" width="222" height="30" rx="6" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="0.8"/>
+        <text x="12" y="19" class="mono" font-size="10" font-weight="700" fill="#0284C7">💼 in/mohamed-hajith</text>
+      </g>
+
+      <!-- Footer Terminal Signature -->
+      <text x="0" y="58" class="mono" font-size="10" fill="#64748B">&gt; SYSTEM STATUS: 200 OK — Ready for new challenges · Available worldwide</text>
+    </g>
+  </g>
+</svg>

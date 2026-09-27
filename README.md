@@ -1,113 +1,145 @@
+# Mohamed Hajith
+
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:09090b,50:18181b,100:09090b&height=220&section=header&text=Hajith%20Mohamed&fontSize=60&fontColor=f4f4f5&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%94%20Sri%20Lanka&descAlignY=58&descSize=16)
+<!-- GitHub Theme-Aware Hero Banner -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+  <img src="./dark.svg" alt="Mohamed Hajith — Full Stack Developer Profile Banner" width="100%">
+</picture>
 
-[![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=2DD4BF&center=true&vCenter=true&width=620&lines=Engineering+software+that+solves+operational+problems.;MERN+%C2%B7+PHP+%C2%B7+Java+%C2%B7+Maintainable+over+clever.)](https://git.io/typing-svg)
+<br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=HajithMohamed&label=Profile+Views&color=2DD4BF&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/HajithMohamed?label=Follow&style=flat-square&color=2DD4BF)](https://github.com/HajithMohamed)
+[![Portfolio](https://img.shields.io/badge/Portfolio-hzlabs.studio-09090B?style=for-the-badge&logo=google-chrome&logoColor=2DD4BF)](https://www.hzlabs.studio/)
+[![GitHub](https://img.shields.io/badge/GitHub-HajithMohamed-09090B?style=for-the-badge&logo=github&logoColor=2DD4BF)](https://github.com/HajithMohamed)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed_Hajith-09090B?style=for-the-badge&logo=linkedin&logoColor=2DD4BF)](https://linkedin.com/in/mohamed-hajith-b53559295/)
+[![Profile Views](https://komarev.com/ghpvc/?username=HajithMohamed&label=Profile+Views&color=2DD4BF&style=for-the-badge)](https://github.com/HajithMohamed)
 
 </div>
 
 ---
 
-## Engineering Philosophy
+### ⚡ Executive Summary
 
-> I enjoy building systems that solve operational problems. Whether it's an
-> e-commerce platform that replaces a manual ordering process, or an
-> authentication flow that keeps a real business safe — I care about the
-> outcome, not the framework.
+I am a **Full Stack Developer** based in Batticaloa, Sri Lanka, focused on engineering systems that eliminate operational bottlenecks. Whether architecting an e-commerce platform that replaces manual ordering processes or implementing multi-factor authentication flows (JWT + OTP) that protect mission-critical business data, I prioritize **business outcomes, maintainability, and clean architecture over framework hype**.
 
 ```json
 {
-  "name": "Hajith Mohamed",
-  "role": "Full Stack Developer",
-  "location": "Colombo, Sri Lanka",
-  "focus": ["commerce", "authentication", "admin tooling"],
-  "principles": ["operational > decorative", "maintainable > clever", "secure by default"],
-  "open_to": ["internships", "software engineering roles"]
+  "engineer": "Mohamed Hajith",
+  "role": "Full Stack Developer / Software Engineer",
+  "location": "Batticaloa, Sri Lanka",
+  "status": "Available for Internships & Software Engineering Roles",
+  "core_focus": [
+    "commerce-platforms",
+    "authentication-security",
+    "admin-tooling",
+    "scalable-rest-apis"
+  ],
+  "engineering_principles": [
+    "operational > decorative",
+    "maintainable > clever",
+    "secure-by-default",
+    "type-safe-everywhere"
+  ]
 }
 ```
 
 ---
 
-## Tech Stack
+### 🛠️ Production Tech Stack
 
-**Frontend**
-
-![React](https://img.shields.io/badge/React-09090B?style=for-the-badge&logo=react&logoColor=2DD4BF)
-![TypeScript](https://img.shields.io/badge/TypeScript-09090B?style=for-the-badge&logo=typescript&logoColor=2DD4BF)
-![Tailwind](https://img.shields.io/badge/Tailwind-09090B?style=for-the-badge&logo=tailwindcss&logoColor=2DD4BF)
-![HTML5](https://img.shields.io/badge/HTML5-09090B?style=for-the-badge&logo=html5&logoColor=2DD4BF)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-09090B?style=for-the-badge&logo=node.js&logoColor=2DD4BF)
-![Express](https://img.shields.io/badge/Express-09090B?style=for-the-badge&logo=express&logoColor=2DD4BF)
-![PHP](https://img.shields.io/badge/PHP-09090B?style=for-the-badge&logo=php&logoColor=2DD4BF)
-![Java](https://img.shields.io/badge/Java-09090B?style=for-the-badge&logo=openjdk&logoColor=2DD4BF)
-
-**Database**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-09090B?style=for-the-badge&logo=mongodb&logoColor=2DD4BF)
-![MySQL](https://img.shields.io/badge/MySQL-09090B?style=for-the-badge&logo=mysql&logoColor=2DD4BF)
-![PostgreSQL](https://img.shields.io/badge/Postgres-09090B?style=for-the-badge&logo=postgresql&logoColor=2DD4BF)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-09090B?style=for-the-badge&logo=git&logoColor=2DD4BF)
-![Postman](https://img.shields.io/badge/Postman-09090B?style=for-the-badge&logo=postman&logoColor=2DD4BF)
-![Vite](https://img.shields.io/badge/Vite-09090B?style=for-the-badge&logo=vite&logoColor=2DD4BF)
-![Vercel](https://img.shields.io/badge/Vercel-09090B?style=for-the-badge&logo=vercel&logoColor=2DD4BF)
+<table>
+  <tr>
+    <td width="20%"><strong>Frontend</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-09090B?style=flat-square&logo=react&logoColor=2DD4BF" alt="React"/>
+      <img src="https://img.shields.io/badge/TypeScript-09090B?style=flat-square&logo=typescript&logoColor=2DD4BF" alt="TypeScript"/>
+      <img src="https://img.shields.io/badge/JavaScript-09090B?style=flat-square&logo=javascript&logoColor=2DD4BF" alt="JavaScript"/>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-09090B?style=flat-square&logo=tailwindcss&logoColor=2DD4BF" alt="Tailwind"/>
+      <img src="https://img.shields.io/badge/Vite-09090B?style=flat-square&logo=vite&logoColor=2DD4BF" alt="Vite"/>
+      <img src="https://img.shields.io/badge/HTML5-09090B?style=flat-square&logo=html5&logoColor=2DD4BF" alt="HTML5"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Backend</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-09090B?style=flat-square&logo=node.js&logoColor=2DD4BF" alt="Node.js"/>
+      <img src="https://img.shields.io/badge/Express-09090B?style=flat-square&logo=express&logoColor=2DD4BF" alt="Express"/>
+      <img src="https://img.shields.io/badge/PHP-09090B?style=flat-square&logo=php&logoColor=2DD4BF" alt="PHP"/>
+      <img src="https://img.shields.io/badge/Java-09090B?style=flat-square&logo=openjdk&logoColor=2DD4BF" alt="Java"/>
+      <img src="https://img.shields.io/badge/REST_APIs-09090B?style=flat-square&logo=fastapi&logoColor=2DD4BF" alt="REST APIs"/>
+      <img src="https://img.shields.io/badge/JWT_&_OTP-09090B?style=flat-square&logo=jsonwebtokens&logoColor=2DD4BF" alt="JWT"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Databases</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/MongoDB-09090B?style=flat-square&logo=mongodb&logoColor=2DD4BF" alt="MongoDB"/>
+      <img src="https://img.shields.io/badge/MySQL-09090B?style=flat-square&logo=mysql&logoColor=2DD4BF" alt="MySQL"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-09090B?style=flat-square&logo=postgresql&logoColor=2DD4BF" alt="PostgreSQL"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Tooling & Ops</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-09090B?style=flat-square&logo=git&logoColor=2DD4BF" alt="Git"/>
+      <img src="https://img.shields.io/badge/Postman-09090B?style=flat-square&logo=postman&logoColor=2DD4BF" alt="Postman"/>
+      <img src="https://img.shields.io/badge/Vercel-09090B?style=flat-square&logo=vercel&logoColor=2DD4BF" alt="Vercel"/>
+      <img src="https://img.shields.io/badge/Linux-09090B?style=flat-square&logo=linux&logoColor=2DD4BF" alt="Linux"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Selected Projects
+### 🚀 Selected Repositories & Architecture
 
-| Project | Stack | What it solves |
-|---|---|---|
-| **Shoe Bank** | MERN · JWT · OTP | Production sneaker e-commerce with secure auth and admin inventory |
-| **NextGen Mobiles** | PHP · MySQL | Retail platform replacing manual stock/sales spreadsheets |
-| **Real Estate Listings** | MERN | Marketplace with filtered search and agent-side CRUD |
-| **Nano Zillas — OOP Java** | Java · UML | Reference project for clean OOP class design |
+| Repository / Project | Tech Stack | Architecture & Operational Problem Solved |
+| :--- | :--- | :--- |
+| **[Shoe Bank](https://github.com/HajithMohamed)** | `MERN` · `JWT` · `OTP` · `Tailwind` | **Production Sneaker E-Commerce:** Architected secure transactional authentication (JWT session tokens + SMS/email OTP verification), real-time inventory decrementing, and comprehensive merchant admin tooling. |
+| **[NextGen Mobiles](https://github.com/HajithMohamed)** | `PHP` · `MySQL` · `Bootstrap` | **Retail Operations Platform:** Eliminated error-prone manual spreadsheets by centralizing device serial inventory, supplier logistics, warranty tracking, and sales analytics into a relational database system. |
+| **[Real Estate Listings](https://github.com/HajithMohamed)** | `React` · `Node.js` · `Express` · `MongoDB` | **Multi-Tenant Property Marketplace:** Built dynamic multi-parameter filtered query engine, secure agent CRUD portal, image asset pipelines, and responsive customer inquiry workflow. |
+| **[Nano Zillas — OOP](https://github.com/HajithMohamed)** | `Java` · `UML` · `Design Patterns` | **Clean Domain Modeling:** Demonstrates strict adherence to SOLID principles, inheritance hierarchies, polymorphic dispatch, and modular class design without framework reliance. |
 
 ---
 
-## GitHub Activity
+### 📈 GitHub Engineering Activity
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=HajithMohamed&show_icons=true&hide_border=true&bg_color=09090B&title_color=2DD4BF&text_color=A1A1AA&icon_color=2DD4BF)
-![Streak](https://streak-stats.demolab.com?user=HajithMohamed&hide_border=true&background=09090B&stroke=18181B&ring=2DD4BF&fire=2DD4BF&currStreakLabel=2DD4BF&sideLabels=A1A1AA&dates=A1A1AA&currStreakNum=F4F4F5&sideNums=F4F4F5)
+<img src="https://github-readme-stats.vercel.app/api?username=HajithMohamed&show_icons=true&hide_border=true&bg_color=0A101D&title_color=38BDF8&text_color=94A3B8&icon_color=2DD4BF" alt="Hajith Mohamed GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HajithMohamed&layout=compact&hide_border=true&bg_color=0A101D&title_color=38BDF8&text_color=94A3B8" alt="Top Languages" height="165"/>
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HajithMohamed&layout=compact&hide_border=true&bg_color=09090B&title_color=2DD4BF&text_color=A1A1AA)
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=HajithMohamed&hide_border=true&background=0A101D&stroke=1E293B&ring=2DD4BF&fire=2DD4BF&currStreakLabel=2DD4BF&sideLabels=94A3B8&dates=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="GitHub Streak" width="85%"/>
 
 </div>
 
 ---
 
-## Currently Exploring
+### 🔬 Currently Deep-Diving Into
 
-- **NestJS** — structured Node backends
-- **Docker** — reproducible environments
-- **Data Science** — Python and pandas
-- **System Design** — scaling patterns
-- **Applied AI** — LLM-powered features
+- **NestJS & Clean Architecture:** Domain-driven design, dependency injection patterns, and modular microservices.
+- **Docker & Containerization:** Production-ready multi-stage Dockerfiles and local development container orchestration.
+- **System Design & Scaling:** Cache invalidation strategies, database indexing optimizations, and read-replica routing.
+- **Applied AI:** Integrating LLM APIs into business workflows for automated document summarization and customer support triage.
 
 ---
 
-## Connect
+### 🌐 Connect & Network
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-09090B?style=for-the-badge&logo=gmail&logoColor=2DD4BF)](mailto:hajith@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-09090B?style=for-the-badge&logo=linkedin&logoColor=2DD4BF)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-09090B?style=for-the-badge&logo=github&logoColor=2DD4BF)](https://github.com/HajithMohamed)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-hzlabs.studio-0A101D?style=for-the-badge&logoColor=2DD4BF)](https://www.hzlabs.studio/)
+&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/🐙_GitHub-HajithMohamed-0A101D?style=for-the-badge&logoColor=2DD4BF)](https://github.com/HajithMohamed)
+&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-mohamed--hajith-0A101D?style=for-the-badge&logoColor=2DD4BF)](https://linkedin.com/in/mohamed-hajith-b53559295/)
 
-**Available for internships & software engineering opportunities**
+<br/>
 
-*"Write code that works. Write code that evolves."*
+> *"Write code that works. Write code that evolves."*
 
 </div>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:09090b,50:18181b,100:09090b&height=110&section=footer)
