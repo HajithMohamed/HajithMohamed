@@ -6,7 +6,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-  <img src="./dark.svg" alt="Mohamed Hajith — Full Stack Developer Profile Banner" width="100%">
+  <img src="./dark.svg" alt="Mohamed Hajith — Full Stack Developer Profile Banner" width="100%" height="75%">
 </picture>
 ---
 
