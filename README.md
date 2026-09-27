@@ -8,16 +8,6 @@
   <source media="(prefers-color-scheme: light)" srcset="./light.svg">
   <img src="./dark.svg" alt="Mohamed Hajith — Full Stack Developer Profile Banner" width="100%">
 </picture>
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-hzlabs.studio-09090B?style=for-the-badge&logo=google-chrome&logoColor=2DD4BF)](https://www.hzlabs.studio/)
-[![GitHub](https://img.shields.io/badge/GitHub-HajithMohamed-09090B?style=for-the-badge&logo=github&logoColor=2DD4BF)](https://github.com/HajithMohamed)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed_Hajith-09090B?style=for-the-badge&logo=linkedin&logoColor=2DD4BF)](https://linkedin.com/in/mohamed-hajith-b53559295/)
-[![Profile Views](https://komarev.com/ghpvc/?username=HajithMohamed&label=Profile+Views&color=2DD4BF&style=for-the-badge)](https://github.com/HajithMohamed)
-
-</div>
-
 ---
 
 ### ⚡ Executive Summary
