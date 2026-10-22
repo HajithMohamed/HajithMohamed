@@ -4,7 +4,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile-banner-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./profile-banner-light.svg" />
-  <img src="./profile-banner-dark.svg" alt="Mohamed Hajith — Full-Stack Software Developer, Backend and Database Engineering" width="100%" />
+  <img src="./profile-banner-dark.svg" alt="Mohamed Hajith — Full-Stack Software Developer. Backend Engineering, Database Systems and Software Architecture. Open to internships." width="100%" />
 </picture>
 
 <br />
