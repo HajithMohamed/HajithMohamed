@@ -38,7 +38,7 @@
   <!-- Identity -->
   <text x="600" y="110" text-anchor="middle" fill="#F8FAFC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="44" font-weight="800" letter-spacing="-1">Mohamed Hajith</text>
   <text x="600" y="144" text-anchor="middle" fill="url(#accent)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="600">Full-Stack Software Developer | Backend &amp; Database Engineering</text>
-  <text x="600" y="174" text-anchor="middle" fill="#64748B" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13">20 public repos  •  1,425 contributions in the last year  •  ★ 0 stars</text>
+  <text x="600" y="174" text-anchor="middle" fill="#64748B" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13">20 public repos  •  1,427 contributions in the last year  •  ★ 0 stars</text>
 
   <!-- Section header -->
   <text x="40" y="214" fill="#38BDF8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="700" letter-spacing="2">FEATURED &amp; LATEST PROJECTS</text>
