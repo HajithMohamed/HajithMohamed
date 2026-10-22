@@ -1,15 +1,3 @@
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!-- ABOUT ME -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-### ⚡ About Me
-
-> **Full-Stack Software Developer & BICT (Hons) Undergraduate** based in **Batticaloa, Sri Lanka**.  
-> Third-year undergraduate at the **Faculty of Technology, University of Ruhuna** (2023 – 2027).  
-> I engineer practical web applications, secure REST APIs, and database-driven business systems — focusing on clean architecture, automated testing, relational integrity, and containerized deployments.  
-> **Philosophy:** *Operational > Decorative &bull; Maintainable > Clever &bull; Secure by Default*
-
-<br/>
 
 <div align="center">
 
@@ -42,6 +30,19 @@
 <img src="https://komarev.com/ghpvc/?username=HajithMohamed&label=Profile+Views&color=2DD4BF&style=for-the-badge&base=1000" alt="Profile Views"/>
 
 <br/><br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ABOUT ME -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+### ⚡ About Me
+
+> **Full-Stack Software Developer & BICT (Hons) Undergraduate** based in **Batticaloa, Sri Lanka**.  
+> Third-year undergraduate at the **Faculty of Technology, University of Ruhuna** (2023 – 2027).  
+> I engineer practical web applications, secure REST APIs, and database-driven business systems — focusing on clean architecture, automated testing, relational integrity, and containerized deployments.  
+> **Philosophy:** *Operational > Decorative &bull; Maintainable > Clever &bull; Secure by Default*
+
+<br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!-- GITHUB STATS -->
