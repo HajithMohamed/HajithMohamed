@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Mohamed Hajith, Full-Stack Software Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#071022"/><stop offset="1" stop-color="#101B36"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#A59BFF"/><stop offset="1" stop-color="#34D5BA"/></linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#28446C" stroke-width="0.7" opacity="0.38"/></pattern>
+    <radialGradient id="halo"><stop offset="0" stop-color="#2F2B7A" stop-opacity="0.42"/><stop offset="1" stop-color="#2F2B7A" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="18" fill="url(#grid)"/>
+  <circle cx="1120" cy="-30" r="250" fill="url(#halo)"/>
+  <circle cx="80" cy="300" r="210" fill="url(#halo)"/>
+  <rect x="22" y="21" width="1156" height="258" rx="16" fill="none" stroke="#354A79" stroke-opacity=".72"/>
+  <rect x="65" y="46" width="214" height="27" rx="13.5" fill="#101D38" stroke="#354A79"/>
+  <circle cx="82" cy="59.5" r="4" fill="#34D5BA"/>
+  <text x="95" y="64.4" fill="#A6B5D5" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="1.3">SOFTWARE ENGINEERING</text>
+  <text x="64" y="138" fill="#F1F5FF" font-family="Arial, Helvetica, sans-serif" font-size="50" font-weight="700" letter-spacing="-1.2">Mohamed Hajith</text>
+  <text x="66" y="184" fill="#F1F5FF" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="600">Full-Stack Software Developer</text>
+  <text x="66" y="212" fill="#A6B5D5" font-family="Arial, Helvetica, sans-serif" font-size="18">Backend &amp; Database Engineering</text>
+  <rect x="66" y="242" width="391" height="2.5" rx="1.25" fill="url(#accent)"/>
+  <text x="66" y="266" fill="#A6B5D5" font-family="Arial, Helvetica, sans-serif" font-size="13">BICT (Hons)  ·  University of Ruhuna  ·  Sri Lanka</text>
+
+  <!-- Minimal architecture motif: UI -> API -> data -->
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <path d="M792 142H830M935 142H972" stroke="#62C6FF" stroke-width="2" stroke-dasharray="5 5" stroke-opacity="0.8"/>
+    <path d="M825 137l7 5-7 5M967 137l7 5-7 5" stroke="#62C6FF" stroke-width="2" fill="none"/>
+    <rect x="684" y="102" width="108" height="81" rx="12" fill="#101D38" stroke="#354A79"/>
+    <rect x="830" y="102" width="106" height="81" rx="12" fill="#101D38" stroke="#354A79"/>
+    <rect x="974" y="102" width="150" height="81" rx="12" fill="#101D38" stroke="#354A79"/>
+    <text x="738" y="134" fill="#A59BFF" font-size="13" font-weight="700">React</text>
+    <text x="738" y="157" fill="#A6B5D5" font-size="12">UI</text>
+    <text x="883" y="134" fill="#62C6FF" font-size="13" font-weight="700">Node.js</text>
+    <text x="883" y="157" fill="#A6B5D5" font-size="12">APIs</text>
+    <text x="1049" y="134" fill="#34D5BA" font-size="13" font-weight="700">PostgreSQL</text>
+    <text x="1049" y="157" fill="#A6B5D5" font-size="12">Data integrity</text>
+  </g>
+  <rect x="900" y="229" width="221" height="31" rx="15" fill="#101D38" stroke="#34D5BA" stroke-opacity="0.65"/>
+  <circle cx="920" cy="244.5" r="4.6" fill="#34D5BA"/>
+  <text x="935" y="249" fill="#F1F5FF" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="600">Open to internships</text>
+</svg>
