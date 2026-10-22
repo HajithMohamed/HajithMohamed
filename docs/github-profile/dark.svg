@@ -1,0 +1,129 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 548" width="1200" height="548" role="img" aria-label="Mohamed Hajith — featured GitHub projects">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#040714"/>
+      <stop offset="100%" stop-color="#0B1026"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2DD4BF"/>
+      <stop offset="50%" stop-color="#38BDF8"/>
+      <stop offset="100%" stop-color="#818CF8"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1E293B" stroke-width="0.75" stroke-opacity="0.45"/>
+    </pattern>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="40"/>
+    </filter>
+    <clipPath id="frame"><rect width="1200" height="548" rx="16"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+  <rect width="1200" height="548" fill="url(#bg)"/>
+  <circle cx="180" cy="70" r="150" fill="#6366F1" opacity="0.16" filter="url(#blur)"/>
+  <circle cx="1040" cy="120" r="150" fill="#2DD4BF" opacity="0.12" filter="url(#blur)"/>
+  <rect width="1200" height="548" fill="url(#grid)"/>
+  <rect width="1200" height="3" fill="url(#accent)"/>
+
+  <!-- Corner brackets -->
+  <path d="M 22 40 L 22 22 L 40 22" fill="none" stroke="#38BDF8" stroke-width="2" opacity="0.6"/>
+  <path d="M 1178 40 L 1178 22 L 1160 22" fill="none" stroke="#38BDF8" stroke-width="2" opacity="0.6"/>
+
+  <!-- Status pill -->
+  <rect x="300" y="30" width="600" height="28" rx="14" fill="#0A1128" stroke="#1E293B"/>
+  <circle cx="322" cy="44" r="4.5" fill="#10B981"/>
+  <circle cx="322" cy="44" r="8" fill="#10B981" opacity="0.25"/>
+  <text x="610" y="48.5" text-anchor="middle" fill="#64748B" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" letter-spacing="1.4">BICT (HONS) UNDERGRADUATE • UNIVERSITY OF RUHUNA • OPEN TO INTERNSHIPS</text>
+
+  <!-- Identity -->
+  <text x="600" y="110" text-anchor="middle" fill="#F8FAFC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="44" font-weight="800" letter-spacing="-1">Mohamed Hajith</text>
+  <text x="600" y="144" text-anchor="middle" fill="url(#accent)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="600">Full-Stack Software Developer | Backend &amp; Database Engineering</text>
+  <text x="600" y="174" text-anchor="middle" fill="#64748B" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13">20 public repos  •  1,418 contributions in the last year  •  ★ 0 stars</text>
+
+  <!-- Section header -->
+  <text x="40" y="214" fill="#38BDF8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="700" letter-spacing="2">FEATURED &amp; LATEST PROJECTS</text>
+  <text x="1160" y="214" text-anchor="end" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">live from github.com/HajithMohamed</text>
+  <rect x="40" y="221" width="1120" height="1" fill="#1E293B"/>
+
+  
+  <g>
+    <rect x="40" y="232" width="360" height="124" rx="12" fill="#0F172A" fill-opacity="0.78" stroke="#1E293B"/>
+    <rect x="40" y="250" width="3" height="26" rx="1.5" fill="#4F5D95"/>
+    <text x="58" y="264" fill="#F8FAFC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" font-weight="700">Shoe Bank — Footwear BMS</text>
+    <rect x="312" y="249" width="72" height="19" rx="9.5" fill="#38BDF8" fill-opacity="0.12" stroke="#38BDF8" stroke-opacity="0.55"/>
+    <text x="348" y="262" text-anchor="middle" fill="#38BDF8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="9.5" font-weight="700" letter-spacing="0.8">FEATURED</text>
+    <text x="58" y="283" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5">HajithMohamed/Footwear_Business_Management_Sy…</text>
+    <text x="58" y="305" fill="#A5B4C8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5">Business management system: inventory,</text>
+    <text x="58" y="322" fill="#A5B4C8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5">invoicing, customer credit, cheque tracking and…</text>
+    <circle cx="62" cy="339" r="4" fill="#4F5D95"/>
+    <text x="72" y="343" fill="#64748B" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11">PHP  ·  ★ 0  ·  Updated Sep 2026</text>
+  </g>
+
+  <g>
+    <rect x="420" y="232" width="360" height="124" rx="12" fill="#0F172A" fill-opacity="0.78" stroke="#1E293B"/>
+    <rect x="420" y="250" width="3" height="26" rx="1.5" fill="#F1E05A"/>
+    <text x="438" y="264" fill="#F8FAFC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" font-weight="700">Saga Elite — E-Commerce</text>
+    <rect x="692" y="249" width="72" height="19" rx="9.5" fill="#38BDF8" fill-opacity="0.12" stroke="#38BDF8" stroke-opacity="0.55"/>
+    <text x="728" y="262" text-anchor="middle" fill="#38BDF8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="9.5" font-weight="700" letter-spacing="0.8">FEATURED</text>
+    <text x="438" y="283" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5">collab · Hz-Labs-studio/Saga-Elite-Web-project</text>
+    <text x="438" y="305" fill="#A5B4C8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5">Four-member e-commerce platform with JWT auth,</text>
+    <text x="438" y="322" fill="#A5B4C8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5">real-time Socket.IO events and Playwright CI.</text>
+    <circle cx="442" cy="339" r="4" fill="#F1E05A"/>
+    <text x="452" y="343" fill="#64748B" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11">JavaScript  ·  ★ 0  ·  Updated Oct 2026</text>
+  </g>
+
+  <g>
+    <rect x="800" y="232" width="360" height="124" rx="12" fill="#0F172A" fill-opacity="0.78" stroke="#1E293B"/>
+    <rect x="800" y="250" width="3" height="26" rx="1.5" fill="#3178C6"/>
+    <text x="818" y="264" fill="#F8FAFC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" font-weight="700">BenchBook — Lab Booking</text>
+    <rect x="1072" y="249" width="72" height="19" rx="9.5" fill="#38BDF8" fill-opacity="0.12" stroke="#38BDF8" stroke-opacity="0.55"/>
+    <text x="1108" y="262" text-anchor="middle" fill="#38BDF8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="9.5" font-weight="700" letter-spacing="0.8">FEATURED</text>
+    <text x="818" y="283" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5">HajithMohamed/Medical-Lab-Resource-Reservatio…</text>
+    <text x="818" y="305" fill="#A5B4C8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5">Lab resource reservations with PostgreSQL</text>
+    <text x="818" y="322" fill="#A5B4C8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5">conflict constraints, maintenance workflows and…</text>
+    <circle cx="822" cy="339" r="4" fill="#3178C6"/>
+    <text x="832" y="343" fill="#64748B" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11">TypeScript  ·  ★ 0  ·  Updated Oct 2026</text>
+  </g>
+
+  <g>
+    <rect x="40" y="374" width="360" height="124" rx="12" fill="#0F172A" fill-opacity="0.78" stroke="#1E293B"/>
+    <rect x="40" y="392" width="3" height="26" rx="1.5" fill="#64748B"/>
+    <text x="58" y="406" fill="#F8FAFC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" font-weight="700">BloodBridge — ADBMS</text>
+    <rect x="312" y="391" width="72" height="19" rx="9.5" fill="#38BDF8" fill-opacity="0.12" stroke="#38BDF8" stroke-opacity="0.55"/>
+    <text x="348" y="404" text-anchor="middle" fill="#38BDF8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="9.5" font-weight="700" letter-spacing="0.8">FEATURED</text>
+    <text x="58" y="425" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5">collab · akalanka001/-BloodBridge--ADBMS</text>
+    <text x="58" y="447" fill="#A5B4C8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5">PostgreSQL / PL/pgSQL blood inventory prototype</text>
+    <text x="58" y="464" fill="#A5B4C8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5">with transaction safeguards (merged PR #7).</text>
+    <circle cx="62" cy="481" r="4" fill="#64748B"/>
+    <text x="72" y="485" fill="#64748B" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11">Code  ·  ★ 0  ·  Updated Oct 2026</text>
+  </g>
+
+  <g>
+    <rect x="420" y="374" width="360" height="124" rx="12" fill="#0F172A" fill-opacity="0.78" stroke="#1E293B"/>
+    <rect x="420" y="392" width="3" height="26" rx="1.5" fill="#3178C6"/>
+    <text x="438" y="406" fill="#F8FAFC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" font-weight="700">HZ Labs Portfolio Platform</text>
+    <rect x="706" y="391" width="58" height="19" rx="9.5" fill="#34D399" fill-opacity="0.12" stroke="#34D399" stroke-opacity="0.55"/>
+    <text x="735" y="404" text-anchor="middle" fill="#34D399" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="9.5" font-weight="700" letter-spacing="0.8">LATEST</text>
+    <text x="438" y="425" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5">HajithMohamed/my_portfoli_website</text>
+    <text x="438" y="447" fill="#A5B4C8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5">Recently active TypeScript project — open the</text>
+    <text x="438" y="464" fill="#A5B4C8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5">repository for details.</text>
+    <circle cx="442" cy="481" r="4" fill="#3178C6"/>
+    <text x="452" y="485" fill="#64748B" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11">TypeScript  ·  ★ 0  ·  Updated Oct 2026</text>
+  </g>
+
+  <g>
+    <rect x="800" y="374" width="360" height="124" rx="12" fill="#0F172A" fill-opacity="0.78" stroke="#1E293B"/>
+    <rect x="800" y="392" width="3" height="26" rx="1.5" fill="#3178C6"/>
+    <text x="818" y="406" fill="#F8FAFC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" font-weight="700">Tech Bridge</text>
+    <rect x="1086" y="391" width="58" height="19" rx="9.5" fill="#34D399" fill-opacity="0.12" stroke="#34D399" stroke-opacity="0.55"/>
+    <text x="1115" y="404" text-anchor="middle" fill="#34D399" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="9.5" font-weight="700" letter-spacing="0.8">LATEST</text>
+    <text x="818" y="425" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5">HajithMohamed/Tech_Bridge</text>
+    <text x="818" y="447" fill="#A5B4C8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5">Recently active TypeScript project — open the</text>
+    <text x="818" y="464" fill="#A5B4C8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5">repository for details.</text>
+    <circle cx="822" cy="481" r="4" fill="#3178C6"/>
+    <text x="832" y="485" fill="#64748B" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11">TypeScript  ·  ★ 0  ·  Updated Oct 2026</text>
+  </g>
+
+  <text x="600" y="532" text-anchor="middle" fill="#64748B" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11">Synced Oct 22, 2026 (UTC) · auto-updated by GitHub Actions</text>
+  </g>
+</svg>
