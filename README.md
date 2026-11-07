@@ -2,9 +2,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-banner-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./profile-banner-light.svg" />
-  <img src="./profile-banner-dark.svg" alt="Mohamed Hajith — Full-Stack Software Developer. Backend Engineering, Database Systems and Software Architecture. Open to internships." width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.webp" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.webp" />
+  <img src="./assets/banner-dark.webp" alt="Mohamed Hajith — Full-Stack Software Developer. Backend Engineering, Database Systems and Software Architecture. Open to internships." width="100%" />
 </picture>
 
 <br />
