@@ -1,6 +1,5 @@
 <!-- Mohamed Hajith | GitHub Profile README | Recruiter-focused design -->
 <div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile-banner-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./profile-banner-light.svg" />
