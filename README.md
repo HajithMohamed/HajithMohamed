@@ -1,9 +1,9 @@
 <!-- Mohamed Hajith | GitHub Profile README | Recruiter-focused design -->
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-banner-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./profile-banner-light.svg" />
-  <img src="./profile-banner-dark.svg" alt="Mohamed Hajith — Full-Stack Software Developer. Backend Engineering, Database Systems and Software Architecture. Open to internships." width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.webp" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.webp" />
+  <img src="./assets/banner-dark.webp" alt="Mohamed Hajith — Full-Stack Software Developer. Backend Engineering, Database Systems and Software Architecture. Open to internships." width="100%" />
 </picture>
 
 <br />
@@ -29,6 +29,15 @@ I'm **Mohamed Hajith**, a developer focused on **React/Next.js, Node.js APIs, an
 - **I value:** understandable code, database integrity, realistic testing, documentation, and collaborative Git workflows.
 - **My next step:** a software engineering internship or junior role where I can contribute to a product and learn from experienced engineers.
 
+**Core stacks:** TypeScript · React / Next.js · Node.js / Express · PostgreSQL, and Java · Spring Boot · MySQL.
+
+## ⭐ Highlights
+
+- **Lead developer on a live e-commerce site.** Saga Elite, for a Sri Lankan fashion brand: 440 of the project's 670 commits, in a team of four.
+- **Rules enforced by the database.** BenchBook blocks double bookings with a PostgreSQL exclusion constraint, backed by 385 automated tests and full CI.
+- **Data engineering.** LankaGrid loads 107,115 fifteen-minute grid dispatch records into a Kimball data warehouse, with 24 analytical SQL queries and 109 tests (team of six).
+- **Testing as a habit.** TechBridge has 879 backend unit tests plus Playwright end-to-end specs.
+
 ## 🚀 Selected engineering work
 
 ### 01 · [Saga Elite — E-commerce platform](https://github.com/Hz-Labs-studio/Saga-Elite-Web-project)
@@ -45,34 +54,34 @@ Built resource booking and maintenance workflows. The standout design decision i
 
 **[Source code & technical documentation](https://github.com/HajithMohamed/Medical-Lab-Resource-Reservation-System)**
 
-### 03 · [BloodBridge — Advanced database management system](https://github.com/akalanka001/-BloodBridge--ADBMS)
-**Collaborative academic prototype · PostgreSQL, PL/pgSQL, React, Node.js, Docker**
+### 03 · [LankaGrid — Electricity grid data warehouse](https://github.com/HajithMohamed/LankaGrid-Analytics)
+**Team project (six members) · Python, PostgreSQL, SQL, Next.js, GitHub Actions**
 
-Contributed to database contracts, transaction safeguards, authorization checks and regression testing for donor and blood-inventory workflows. My **[pre-handoff database and architecture PR #7](https://github.com/akalanka001/-BloodBridge--ADBMS/pull/7)** was merged into the shared project.
+A Kimball data warehouse for Sri Lanka's national electricity grid. A Python ETL pipeline loads official CEB, PUCSL and NASA data with SHA-256 provenance and quarantine of bad rows. 24 analytical SQL queries use window functions, `ROLLUP` and `CUBE`, and a Next.js dashboard presents the results. CI runs the tests against PostgreSQL 18.
 
-**[Repository](https://github.com/akalanka001/-BloodBridge--ADBMS)** · **[Merged pull request](https://github.com/akalanka001/-BloodBridge--ADBMS/pull/7)**
+**[Source code & dashboard screenshots](https://github.com/HajithMohamed/LankaGrid-Analytics)**
 
-<sub>Academic demonstration only — not a clinical blood transfusion product.</sub>
+### 04 · [TechBridge — Student opportunity platform](https://github.com/HajithMohamed/Tech_Bridge)
+**React, TypeScript, Express, MongoDB, Vitest, Playwright**
 
-### 04 · [Shoe Bank — Footwear business management](https://github.com/HajithMohamed/Footwear_Business_Management_System)
+Connects technology students with jobs, internships, scholarships, mentors and hardware to borrow, through separate student, provider and admin portals. Opportunity matching is rule-based scoring, not a trained ML model. The backend has 879 unit tests.
+
+**[Source code](https://github.com/HajithMohamed/Tech_Bridge)**
+
+### 05 · [Shoe Bank — Footwear business management](https://github.com/HajithMohamed/Footwear_Business_Management_System)
 **Independent project · PHP, MySQL, custom MVC, Tailwind CSS, Docker**
 
 Built business workflows for stock tracking, invoicing, customer credit, cheques and financial reporting. The implementation distinguishes **profit from collected cash** and includes OCR-assisted document processing.
 
 **[Source code](https://github.com/HajithMohamed/Footwear_Business_Management_System)**
 
-### 05 · [HZ Labs — Portfolio and CMS platform](https://github.com/HajithMohamed/my_portfoli_website)
-**Independent project · Next.js, TypeScript, NestJS, Prisma**
-
-Created a full-stack portfolio with an authenticated content management interface, REST services, project management and GitHub integration.
-
-**[Source code](https://github.com/HajithMohamed/my_portfoli_website)** · **[Live website](https://www.hzlabs.studio/)**
-
 <details>
-<summary><strong>More work — TechBridge and Java collaboration</strong></summary>
+<summary><strong>More work — TaskFlow, HZ Labs, Java and database collaborations</strong></summary>
 
-- **[TechBridge](https://github.com/HajithMohamed/Tech_Bridge)** — React, TypeScript, Express and MongoDB application for student opportunities, role-based portals and resource workflows. Its opportunity scoring is rule-based, not a trained ML model.
-- **[Faculty Event Management System](https://github.com/AKMJafran/EventManagementSystem)** — Collaborative React, Spring Boot and MySQL project with authentication, role-based access and event scheduling.
+- **[TaskFlow](https://github.com/HajithMohamed/TODO_App)**: a Next.js and Supabase task manager with realtime updates across tabs and PostgreSQL row-level security on every table.
+- **[HZ Labs portfolio and CMS](https://github.com/HajithMohamed/my_portfoli_website)**: a Next.js and NestJS portfolio with an authenticated content management interface ([live website](https://www.hzlabs.studio/)).
+- **[Faculty Event Management System](https://github.com/AKMJafran/EventManagementSystem)**: a collaborative React, Spring Boot and MySQL project with authentication, role-based access and event scheduling.
+- **[BloodBridge database work, merged PR #7](https://github.com/akalanka001/-BloodBridge--ADBMS/pull/7)**: PostgreSQL contracts, transaction safeguards and authorisation checks for a collaborative academic prototype. <sub>Academic demonstration only, not a clinical product.</sub>
 
 </details>
 
@@ -96,21 +105,21 @@ The technologies below are used in my academic, independent and collaborative pr
 
 `React` · `Next.js` · `Node.js` · `Express` · `NestJS` · `Spring Boot` · `Redux Toolkit` · `Tailwind CSS`
 
-### Databases & engineering tools
+### Data, databases & engineering tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma,docker,git,githubactions,postman&amp;theme=dark&amp;perline=8" alt="PostgreSQL, MySQL, MongoDB, Prisma, Docker, Git, GitHub Actions and Postman" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma,py,docker,git,githubactions,postman&amp;theme=dark&amp;perline=9" alt="PostgreSQL, MySQL, MongoDB, Prisma, Python, Docker, Git, GitHub Actions and Postman" />
 </p>
 
-`PostgreSQL / PL/pgSQL` · `MySQL` · `MongoDB` · `Prisma` · `Docker Compose` · `Git / pull requests` · `GitHub Actions` · `Playwright` · `Vitest` · `Postman`
+`PostgreSQL / PL/pgSQL` · `MySQL` · `MongoDB` · `Prisma` · `Python (pandas, psycopg) for ETL` · `Docker Compose` · `Git / pull requests` · `GitHub Actions` · `Playwright` · `Vitest` · `Postman`
 
 ### 📖 Currently learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,flutter,dart,azure&amp;theme=dark&amp;perline=4" alt="Python, Flutter, Dart and Microsoft Azure: currently learning" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,azure&amp;theme=dark&amp;perline=3" alt="Flutter, Dart and Microsoft Azure: currently learning" />
 </p>
 
-**Exploring:** Python fundamentals, Flutter/Dart, Microsoft Azure fundamentals, applied AI and data science. These are learning areas, not claims of advanced professional experience.
+**Exploring:** Flutter/Dart, Microsoft Azure fundamentals, applied AI and data science. These are learning areas, not claims of advanced professional experience.
 
 ## 🧪 How I approach development
 
